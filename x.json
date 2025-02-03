@@ -1,6 +1,6 @@
 //以下接口全部出自网络和大佬资源。[所有内容仅供学习使用，请勿用于违法用途]
 //注意：部分线路可能无法使用
-//【直播接口】推荐【长青直播源】【盒子迷直播源】【开心直播源】【安卓哥直播源】，选择线路自动配置
+//【直播接口】推荐【长青直播源】【盒子迷直播源】【开心直播源】，选择线路自动配置
 {
     "warningText": "接口免费，请勿付费。",
     "urls":
@@ -244,6 +244,42 @@
 	{
             "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin",
             "name": "🚀瓜子"
+        },
+	{
+            "url": "https://秦始皇.xyz",
+            "name": "🚀秦始皇4K"
+        },
+	{
+            "url": "https://ztha.top/TVBox/thdjk.json",
+            "name": "🚀挺好分享"
+        },
+	{
+            "url": "https://chuanshuo.77blog.cn/tv.json",
+            "name": "🚀传说blog"
+        },
+	{
+            "url": "http://fmys.top/fmys.json",
+            "name": "🚀驸马影视"
+        },
+	{
+            "url": "https://gitee.com/lukei7/lib/raw/Luck/自建.json",
+            "name": "🚀蓝天Luck"
+        },
+	{
+            "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
+            "name": "🚀不是青龙"
+        },
+	{
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/dj.json",
+            "name": "🚀乐哥短剧"
+        },
+	{
+            "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+            "name": "🚀香雅情短剧"
+        },
+	{
+            "url": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json",
+            "name": "🚀ocean2025"
         },
 	{
             "url": "http://影视仓.com/",
